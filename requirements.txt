@@ -1,0 +1,2 @@
+git+https://github.com/ekaschalk/jedhy.git
+git+https://github.com/Calysto/calysto_hy.git
