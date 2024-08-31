@@ -1,0 +1,3 @@
+#!/bin/bash
+# Install calysto_hy kernel
+python -m calysto_hy install --user
