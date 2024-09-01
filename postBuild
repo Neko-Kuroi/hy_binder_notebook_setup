@@ -1,1 +1,1 @@
-python3 -m calysto_hy install --user
+python -m calysto_hy install --user
