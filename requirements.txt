@@ -1,5 +1,5 @@
 hy
 #git+https://github.com/ekaschalk/jedhy.git
-git+https://github.com/Calysto/calysto_hy.git
-git+https://github.com/fergusq/calysto_hy.git@hy-0.24.0-support --upgrade
+#git+https://github.com/Calysto/calysto_hy.git
+#git+https://github.com/fergusq/calysto_hy.git@hy-0.24.0-support --upgrade
 
